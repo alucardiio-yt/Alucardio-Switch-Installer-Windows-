@@ -346,7 +346,6 @@ def limpiar_carpetas(ruta_sd):
         "bootloader",
         "config",
         "scripts",
-        "Next"
     ]
 
     if not conservar_homebrew.get():
