@@ -1,34 +1,54 @@
-Este programa está diseñado para facilitar la actualización de tu microSD en Nintendo Switch de forma automática, sin necesidad de hacer todo manualmente.
+Alucardio Switch Installer PC
 
-La aplicación se encarga de limpiar archivos antiguos, descargar la última versión del pack desde GitHub y dejar todo listo para que tu consola arranque sin errores.
+Herramienta de mantenimiento y actualización para tarjetas microSD utilizadas en Nintendo Switch con entornos Homebrew.
 
-¿Valoras mi Trabajo? Suscríbete al Patreon y obtén toda la biblioteca de NS sin anuncios, sin ads, todo listo para descargar.
-https://www.patreon.com/alucardio
+Esta aplicación permite automatizar tareas de actualización, organización y mantenimiento de archivos, reduciendo la necesidad de realizar estos procesos manualmente.
 
----
+El programa identifica la unidad correspondiente, comprueba las actualizaciones disponibles en GitHub y gestiona los archivos necesarios para mantener el entorno actualizado.
 
-Funciones principales:
+⸻
 
-- Detección automática de microSD
-- Selección manual en caso necesario
-- Limpieza de archivos y carpetas antiguos
-- Descarga automática de la última versión del pack
-- Instalación completa en un solo paso
-- Opción para conservar Apps Homebrew
+Funciones principales
 
----
+* Detección automática de tarjetas microSD.
+* Selección manual de la unidad de destino.
+* Identificación y limpieza de archivos obsoletos.
+* Descarga de actualizaciones desde GitHub.
+* Actualización automatizada de archivos y configuraciones.
+* Opción para conservar aplicaciones Homebrew existentes.
+* Interfaz sencilla y compatible con Windows.
 
-Importante:
+⸻
 
-- No elimina juegos instalados
-- No elimina partidas guardadas
-- Solo reemplaza archivos del sistema modificado
+Información importante
 
----
+* Diseñado para el mantenimiento de archivos y configuraciones del entorno Homebrew.
+* No está destinado a gestionar juegos instalados ni partidas guardadas.
+* Permite conservar aplicaciones Homebrew durante el proceso de actualización.
+* Se recomienda realizar una copia de seguridad de los archivos importantes antes de utilizar la herramienta.
 
-Requisitos:
+⸻
 
-- Windows 10 / 11 (64 bits)
+Requisitos del sistema
 
----
+* Windows 10 / 11 (64 bits).
+* Tarjeta microSD accesible desde el equipo.
+* Conexión a Internet para descargar actualizaciones.
 
+⸻
+
+Aviso legal
+
+Este proyecto es una herramienta independiente de mantenimiento y gestión de archivos.
+
+Esta aplicación no incluye ni distribuye juegos comerciales, contenido protegido por derechos de autor ni archivos propietarios de Nintendo.
+
+El usuario es responsable de utilizar el software de acuerdo con la legislación aplicable y las licencias correspondientes.
+
+⸻
+
+Desarrollo
+
+Proyecto desarrollado y mantenido por Alucardio.
+
+Las actualizaciones, mejoras y correcciones se publicarán a través de este repositorio de GitHub.
